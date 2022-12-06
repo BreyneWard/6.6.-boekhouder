@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.AssemblyInfo.cs
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\6.6. boekhouder\bin\Debug\net6.0\6.6. boekhouder.exe
+D:\multimedi\Cscherp\6.6. boekhouder\bin\Debug\net6.0\6.6. boekhouder.deps.json
+D:\multimedi\Cscherp\6.6. boekhouder\bin\Debug\net6.0\6.6. boekhouder.runtimeconfig.json
+D:\multimedi\Cscherp\6.6. boekhouder\bin\Debug\net6.0\6.6. boekhouder.dll
+D:\multimedi\Cscherp\6.6. boekhouder\bin\Debug\net6.0\6.6. boekhouder.pdb
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.dll
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\refint\6.6. boekhouder.dll
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.pdb
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\6.6. boekhouder.genruntimeconfig.cache
+D:\multimedi\Cscherp\6.6. boekhouder\obj\Debug\net6.0\ref\6.6. boekhouder.dll
